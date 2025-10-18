@@ -12,6 +12,8 @@
 3. 点击"直接下载APK"按钮
 4. 下载完成后，点击APK文件进行安装
 
+<img src="https://rebateto.me/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjYwLCJwdXIiOiJibG9iX2lkIn19--5da6050bdac26f9aa976cccb94c8a3f7c191c864/%E4%B8%8B%E8%BD%BD%E7%95%8C%E9%9D%A2.jpg" alt="下载界面" width="400" />
+
 ## 安装说明
 
 - 如果提示"未知来源"，请在手机设置中允许安装未知来源的应用

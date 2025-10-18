@@ -6,13 +6,20 @@
 
 访问苹果官方网站 [https://appleid.apple.com/account](https://appleid.apple.com/account)
 
+<img src="https://rebateto.me/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjU2LCJwdXIiOiJibG9iX2lkIn19--4df5df7543af5512d0e24a963c2649149723b90a/1.png" alt="苹果官网页面" width="400" />
+
 ### 2. 创建Apple ID
 
 点击右上角下拉菜单 >> 选择 创建你的 Apple ID
 
+<img src="https://rebateto.me/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI0LCJwdXIiOiJibG9iX2lkIn19--ca9ba753331b6b960f9dab654398a5ab61d78e77/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsxMDI0LDc2OF19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--ff1e44f5fc92749568ccfa97c65aee206c8b0d55/2.png" alt="创建Apple ID页面" width="400" />
+
 ### 3. 填写注册信息
 
 地区直接选择台湾即可，同文同种，不会出现不认识的内容，填写常用邮箱，提供能够收到验证码的手机号码。
+
+<img src="https://rebateto.me/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI1LCJwdXIiOiJibG9iX2lkIn19--5fb33d77146504448ede176f60be786dc74d0f2d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOls4MDAsNjAwXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--5a14ad9bb8fab1b8f3173c69be3e744fa4b46c6d/3.png" alt="选择地区页面" width="400" />
+<img src="https://rebateto.me/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI2LCJwdXIiOiJibG9iX2lkIn19--71e9fee9b811d8dc948841fa68313c9d5b1f5694/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOls4MDAsNjAwXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--5a14ad9bb8fab1b8f3173c69be3e744fa4b46c6d/4.png" alt="填写信息页面" width="400" />
 
 > 请务必记住用来注册账户的邮箱、密码及手机号码。
 
@@ -22,15 +29,25 @@
 
 输入邮箱和手机收到的验证码后，即可成功注册 Apple ID
 
+<img src="https://rebateto.me/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI3LCJwdXIiOiJibG9iX2lkIn19--318d20bd5cad7cc79611f3fcfcca952b97217451/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOls4MDAsNjAwXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--5a14ad9bb8fab1b8f3173c69be3e744fa4b46c6d/5.png" alt="验证信息页面" width="400" />
+<img src="https://rebateto.me/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI4LCJwdXIiOiJibG9iX2lkIn19--30ea7f48cfc8920695a752f54714ab8c3145ceca/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOls4MDAsNjAwXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--5a14ad9bb8fab1b8f3173c69be3e744fa4b46c6d/6.png" alt="验证成功页面" width="400" />
+<img src="https://rebateto.me/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI5LCJwdXIiOiJibG9iX2lkIn19--34c92b28780658243773f3efef50a0cacbcd861f/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOls4MDAsNjAwXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--5a14ad9bb8fab1b8f3173c69be3e744fa4b46c6d/7.png" alt="注册完成页面" width="400" />
+
 ## 步骤二：登录App Store，下载币安App
 
 ### 1. 登录App Store
 
 打开 App Store >> 登录新注册的 Apple ID 和密码
 
+<img src="https://rebateto.me/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjU0LCJwdXIiOiJibG9iX2lkIn19--7c239e9645d12a1c2eea722dfaf223294a610af0/8.png" alt="登录App Store页面" width="400" />
+
 ### 2. 搜索并下载
 
 登录成功 >> 点击 "搜索" >> 输入 "币安" >> 点击 "获取"
+
+<img src="https://rebateto.me/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTMxLCJwdXIiOiJibG9iX2lkIn19--361b21c57c43ffbf0306f5894fa87f158e05c44b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsxMDI0LDc2OF19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--ff1e44f5fc92749568ccfa97c65aee206c8b0d55/9.png" alt="搜索币安页面" width="400" />
+<img src="https://rebateto.me/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTMyLCJwdXIiOiJibG9iX2lkIn19--28be038a47dafd5070534787cdbdad216e3e1aeb/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOls4MDAsNjAwXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--5a14ad9bb8fab1b8f3173c69be3e744fa4b46c6d/10.png" alt="币安APP下载页面" width="400" />
+<img src="https://rebateto.me/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTMzLCJwdXIiOiJibG9iX2lkIn19--25bb0568fc8fbd56303c693c3e2c5c14d20499cf/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOls4MDAsNjAwXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--5a14ad9bb8fab1b8f3173c69be3e744fa4b46c6d/11.png" alt="下载完成页面" width="400" />
 
 ### 3. 完成下载
 

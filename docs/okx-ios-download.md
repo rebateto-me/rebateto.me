@@ -45,6 +45,10 @@
 
 登录成功 >> 点击 "搜索" >> 输入 "欧易" >> 点击 "获取"
 
+<img src="https://rebateto.me/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjU1LCJwdXIiOiJibG9iX2lkIn19--a1e4fce1c32784be62c2d1f2c03190d5e8278d15/%E6%90%9C%E7%B4%A2%E6%AC%A7%E6%98%93%E4%B8%8B%E8%BD%BD.jpg" alt="搜索欧易下载" width="400" />
+<img src="https://rebateto.me/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTMyLCJwdXIiOiJibG9iX2lkIn19--28be038a47dafd5070534787cdbdad216e3e1aeb/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOls4MDAsNjAwXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--5a14ad9bb8fab1b8f3173c69be3e744fa4b46c6d/10.png" alt="欧易APP下载页面" width="400" />
+<img src="https://rebateto.me/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTMzLCJwdXIiOiJibG9iX2lkIn19--25bb0568fc8fbd56303c693c3e2c5c14d20499cf/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOls4MDAsNjAwXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--5a14ad9bb8fab1b8f3173c69be3e744fa4b46c6d/11.png" alt="下载完成页面" width="400" />
+
 ### 3. 完成下载
 
 点击"获取"欧易 App 后，可能需要以下步骤完成创建。创建完成后，欧易 App 将自动下载。
